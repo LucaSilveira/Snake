@@ -1,3 +1,10 @@
+#Equipe de IPC
+#Antonio Diego Furtado da Silva 1715310004
+#Gabriel de Queiroz Sousa 1715310044
+#Lucas Gabriel Silveira Duarte 1715310053
+#Matheus de Oliveira Matos 1515310514
+#Reinaldo Vargas 1715310054
+#Rodrigo Duarte de Souza 1115140049
 import pygame
 import time
 import random
